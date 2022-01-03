@@ -1,4 +1,5 @@
 _data/
 _note_exports/
 _tests/
-
+_output/
+prototypes/node_modules/
